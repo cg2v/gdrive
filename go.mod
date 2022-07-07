@@ -1,4 +1,4 @@
-module github.com/msfjarvis/gdrive
+module github.com/cg2v/gdrive
 
 go 1.16
 

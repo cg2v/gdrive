@@ -11,9 +11,9 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/msfjarvis/gdrive/auth"
-	"github.com/msfjarvis/gdrive/cli"
-	"github.com/msfjarvis/gdrive/drive"
+	"github.com/cg2v/gdrive/auth"
+	"github.com/cg2v/gdrive/cli"
+	"github.com/cg2v/gdrive/drive"
 )
 
 var ClientId string

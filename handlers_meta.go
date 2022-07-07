@@ -7,7 +7,7 @@ import (
 	"strings"
 	"text/tabwriter"
 
-	"github.com/msfjarvis/gdrive/cli"
+	"github.com/cg2v/gdrive/cli"
 )
 
 func printVersion(ctx cli.Context) {
